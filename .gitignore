@@ -1,0 +1,9 @@
+.idea
+*.pyc
+.DS_Store
+playground.py
+image
+distbuild
+build
+dist
+env/
